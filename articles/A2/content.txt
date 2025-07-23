@@ -1,0 +1,9 @@
+If you're having trouble logging into your account, it's usually something easy to fix. Start by checking that your email and password are correct. Make sure there are no typos and that Caps Lock isn't on.
+
+If you've forgotten your password, click the "Forgot Password?" link on the login page. You'll receive an email with a link to reset it. Be sure to check your spam or junk folder if it doesn’t show up right away.
+
+Sometimes your browser can cause issues. Try clearing your cache and cookies, or switching to a different browser or device.
+
+If everything seems fine but you still can't log in, check our status page to see if there are any known issues.
+
+Still need help? Reach out to our support team and we’ll assist you further.

@@ -1,0 +1,11 @@
+If you’ve forgotten your password or want to change it, resetting it is simple. Just follow these steps:
+
+Go to the login page and click "Forgot Password?"
+
+Enter the email linked to your account and submit.
+
+Check your email for a reset link (look in spam/junk if it’s not there).
+
+Click the link and follow the instructions to create a new password.
+
+Once updated, you can log in with your new password. Need help? Contact our support team.
